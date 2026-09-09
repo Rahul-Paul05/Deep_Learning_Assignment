@@ -3,7 +3,7 @@ Welcome to my Deep Learning Assignments repository.
 
 This repository contains my practical implementations, experiments, and learning outcomes from the Deep Learning laboratory. The goal of this repository is to build a strong understanding of Deep Learning concepts by implementing algorithms and models from the basics to more advanced techniques using Python, TensorFlow, and Keras.
 
-#🎯 Learning Objectives
+🎯 Learning Objectives
 
 Throughout these laboratory assignments, I will learn how to:
 
@@ -20,7 +20,7 @@ Evaluate Deep Learning models using accuracy, loss, confusion matrices, and pred
 Visualize model performance using graphs.
 Save and reuse trained Deep Learning models.
 
-#📚 What This Repository Contains
+📚 What This Repository Contains
 
 The repository is organized laboratory-wise. Each laboratory contains its own README.md file that explains the assignment, methodology, implementation, results, and conclusion.
 
@@ -46,7 +46,7 @@ Deep_Learning_Assignment/
     ├── README.md
     └── Assignment_7_VGG16.ipynb
 
-#📚 Assignment Roadmap
+📚 Assignment Roadmap
 Assignment                  Topic                                                Main Concepts
 
 Assignment 1            TensorFlow/Keras                                TensorFlow, Keras, preprocessing, 
@@ -68,7 +68,7 @@ Assignment 7	         Transfer Learning	                         AlexNet, VGG16,
 Assignments 4 and 5 are not included here because they are not part of the assignment list currently documented in this repository.
 
 
-#🧪 Assignment Details
+🧪 Assignment Details
 
 Assignment 1 — TensorFlow/Keras and Data Preprocessing
 
@@ -177,7 +177,7 @@ Sheep
 Spider
 Squirrel
 
-#🧠 Concepts Covered
+🧠 Concepts Covered
 Neural Networks
 Neurons
 Weights and biases
@@ -219,7 +219,7 @@ Confusion matrix
 Predictions
 Model comparison
 
-#🛠️ Technologies Used
+🛠️ Technologies Used
 
 Python
 NumPy
@@ -234,7 +234,7 @@ Jupyter Notebooks
 Git
 GitHub
 
-#📊 Dataset Sources
+📊 Dataset Sources
 
 Datasets are obtained from publicly available sources such as Kaggle and are loaded directly into Google Colab whenever possible.
 
@@ -246,7 +246,7 @@ Iris / Wine dataset
 Tomato / Soybean disease dataset
 Animals-10 dataset
 
-#🔬 General Workflow
+🔬 General Workflow
 
 Each assignment follows a practical Deep Learning workflow:
 
@@ -270,7 +270,7 @@ Conclusion
 
 The objective is to understand not only how to implement a model, but also how to analyze its performance and understand the effect of different techniques and parameters.
 
-#📁 Repository Structure
+📁 Repository Structure
 
 Each assignment is maintained in its own folder.
 
@@ -308,7 +308,7 @@ Results
 Visualizations
 Conclusion
 
-#📈 Results
+📈 Results
 
 Model results are documented inside the corresponding assignment folders.
 
@@ -323,7 +323,7 @@ Confusion matrix
 Classification predictions
 Model comparison
 
-#🚀 Future Learning
+🚀 Future Learning
 
 As the Deep Learning journey progresses, this repository can be extended with topics such as:
 
@@ -336,7 +336,7 @@ Image segmentation
 Natural Language Processing
 Model deployment
 
-#👨‍💻 About
+👨‍💻 About
 
 This repository is maintained as a practical record of my Deep Learning laboratory assignments.
 
